@@ -17,7 +17,7 @@ resources:
 
     - repository: azureSharedTemplates
       type: github
-      endpoint: MyProject
+      endpoint: kglassmire
       name: ILiuACR/shared-azure-pipeline-templates
       branch: master
 
